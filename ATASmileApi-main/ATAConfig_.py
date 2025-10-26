@@ -14,3 +14,4 @@ SMILE_API = {
     "create_order": "/smilecoin/api/createorder",
     "get_role_mcgg": "/merchant/game/checkrole?product=magicchessgogo"
 }
+
